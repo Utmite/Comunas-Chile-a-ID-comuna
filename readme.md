@@ -1,3 +1,6 @@
-# Comunas de Chile a Comuna_ID
+## Comunas de Chile a Comuna_ID
+---
 
-A falta de una API, comparto mi archivo. ¡Te deseo suerte!
+**Utilizar solo Unicode (transformar el nombre a sin tilde y todo en mayúsculas)**
+
+Dado la falta de una API, comparto mi archivo. ¡Buena suerte!
